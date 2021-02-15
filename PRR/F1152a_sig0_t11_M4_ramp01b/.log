@@ -1,0 +1,10 @@
+-rwxr-xr-x 1 brandenb users 55406 Mar 30 16:36 k.dat
+-rw-r--r-- 1 brandenb users   180 Mar 30 16:36 parameters.pro
+-rwxr-xr-x 1 brandenb users   155 Mar 30 16:36 print.in
+-rwxr-xr-x 1 brandenb users   901 Mar 30 16:44 run.in
+-rwxr-xr-x 1 brandenb users   329 Mar 30 16:36 src/cparam.local
+-rwxr-xr-x 1 brandenb users   528 Mar 30 16:36 src/Makefile.local
+-rwxr-xr-x 1 brandenb users   506 Mar 30 16:36 start.in
+-rwxr-xr-x 1 brandenb users    11 Mar 30 16:36 video.in
+-rwxr-xr-x 1 brandenb users    20 Mar 30 16:36 xyaver.in
+-rwxr-xr-x 1 brandenb users    18 Mar 30 16:36 zaver.in

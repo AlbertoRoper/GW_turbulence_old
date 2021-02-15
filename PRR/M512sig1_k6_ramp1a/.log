@@ -1,0 +1,10 @@
+-rwxr-xr-x 1 brandenb pg-3250019 55406 Oct 17 21:49 k.dat
+-rw-r--r-- 1 brandenb pg-3250019   247 Oct 17 21:49 parameters.pro
+-rwxr-xr-x 1 brandenb pg-3250019   207 Oct 17 21:49 print.in
+-rwxr-xr-x 1 brandenb pg-3250019  1089 Oct 18 06:04 run.in
+-rwxr-xr-x 1 brandenb pg-3250019   328 Oct 17 21:49 src/cparam.local
+-rwxr-xr-x 1 brandenb pg-3250019   528 Oct 17 21:49 src/Makefile.local
+-rwxr-xr-x 1 brandenb pg-3250019   538 Oct 18 06:04 start.in
+-rwxr-xr-x 1 brandenb pg-3250019    11 Oct 17 21:49 video.in
+-rwxr-xr-x 1 brandenb pg-3250019    20 Oct 17 21:49 xyaver.in
+-rwxr-xr-x 1 brandenb pg-3250019    18 Oct 17 21:49 zaver.in
