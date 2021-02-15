@@ -215,3 +215,26 @@ def read_L(dir_runs, dir0):
     
     return L
 
+
+# This function is used to write the directory (s2) and name (s1) of a new run in the 'run.py' file, by
+# generating a copy of run.py in 'fp'
+def add_run(s1, s2, sf):
+    
+    fp2 = open(sf, 'w')
+    with open('run.py') as fp:
+        line = fp.readline()
+        fp2.write(line)
+        i = 0
+        while line:
+            line = fp.readline()
+            fp2.write(line)
+            content = line.split()
+            if content:
+                if content[0] == 'def':
+                    if content[1] == 'read_dirs():':
+                        fp2.write(fp.readline())
+                        fp2.write(fp.readline())
+                        fp2.write('    dirs.update({\'%s'%s1)
+                        fp2.write('\':\'%s\'})'%s2)
+                        fp2.write('\n')
+
